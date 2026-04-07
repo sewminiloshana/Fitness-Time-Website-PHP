@@ -1,0 +1,30 @@
+[
+    {
+        "name": "sewmini",
+        "email": "loshanasewmini@gmail.com",
+        "message": "1111111111111",
+        "ip": "::1",
+        "received_at": "2026-01-24T00:22:12+01:00"
+    },
+    {
+        "name": "sewmini",
+        "email": "namal@gmail.com",
+        "message": "111111111",
+        "ip": "::1",
+        "received_at": "2026-01-24T00:31:22+01:00"
+    },
+    {
+        "name": "sewmini",
+        "email": "sewminiloshana@gmail.com",
+        "message": "44444",
+        "ip": "::1",
+        "received_at": "2026-01-24T00:38:36+01:00"
+    },
+    {
+        "name": "sewmini",
+        "email": "namal@gmail.com",
+        "message": "55555555",
+        "ip": "::1",
+        "received_at": "2026-01-24T00:40:07+01:00"
+    }
+]
